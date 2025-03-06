@@ -6,3 +6,9 @@ Basta executar o Servidor e o Cliente em 2 máquinas distintas (ou na mesma máq
 Assim que executar o Servidor.jar, o mesmo vai informar o IP que deve ser inserido quando executar o Cliente.jar.
 
 O programa tem como função tornar todas as letras fornecidas pelo cliente em maíusculas.
+
+
+## Contato com o Author
+Caso tenha dúvidas ou sugestões, entre em contato:
+- **Email**: [paulogeraldols@gmail.com]
+- **GitHub**: [psouza0]
